@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  5 12:40:45 2020
-
-@author: דביר
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import os
