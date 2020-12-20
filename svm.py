@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 
 
-df=pd.read_csv(r"C:\Users\דביר\Downloads\pima-indians-diabetes.csv",header=None).values
+df=pd.read_csv(r"C:\Users\Dvir\Downloads\pima-indians-diabetes.csv",header=None).values
 y=df[:,-1]
 y=(y*2)-1    
 X=df[:,:-1]
