@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 27 12:07:19 2020
 
-@author: דביר
-"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -11,7 +6,7 @@ from matplotlib import style
 style.use('ggplot')
 
 
-df=pd.read_csv(r"C:\Users\דביר\Downloads\iris.data",header=None)
+df=pd.read_csv(r"C:\Users\Dvir\Downloads\iris.data",header=None)
 df=df.iloc[:,:-1]
 df=df.values
 
