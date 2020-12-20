@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 12:02:31 2020
-
-@author: דביר
-"""
 import numpy as np
 
 pi=np.array([0.6,0.4])
