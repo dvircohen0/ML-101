@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  8 14:00:26 2020
-
-@author: דביר
-"""
-
 import numpy as np
 from sklearn.datasets import load_iris
 from math import sqrt
