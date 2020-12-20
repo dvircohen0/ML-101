@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 13 15:46:26 2020
-
-@author: דביר
-"""
-
 import pandas as  pd
 import numpy as np
 from sklearn.model_selection import train_test_split
