@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  8 22:36:38 2020
-
-@author: דביר
-"""
-
 import pandas as pd
 from math import sqrt
 import numpy as np
