@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 26 11:15:01 2020
 
-@author: דביר
-"""
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import LinearRegression
