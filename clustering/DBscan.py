@@ -53,19 +53,19 @@ def my_neighbors(data,P,eps):
     return neighbors
 
 
-my_labels = MyDBSCAN(df, eps, min_samples)
+my_labels = MyDBSCAN(X, eps, min_samples)
 
 colors=['b','r','y']
 for i in range(len(my_labels)):
     for j in range(len(np.unique(my_labels))):
         if my_labels[i]==np.unique(my_labels)[j]:
-           plt.scatter(df[i,2],df[i,3],c=colors[j], s=30)
+           plt.scatter(X[i,2],X[i,3],c=colors[j], s=30)
 plt.show()
         
-my_labels2 = DBSCAN(eps, min_samples).fit_predict(df)
+my_labels2 = DBSCAN(eps, min_samples).fit_predict(X)
 
 for i in range(len(my_labels2)):
     for j in range(len(np.unique(my_labels2))):
         if my_labels2[i]==np.unique(my_labels2)[j]:
-           plt.scatter(df[i,2],df[i,3],c=colors[j], s=30)
+           plt.scatter(X[i,2],X[i,3],c=colors[j], s=30)
 plt.show()
