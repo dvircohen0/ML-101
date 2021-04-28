@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms-From-Scratch
+## Machine-Learning-Algorithms-From-Scratch
 
 This repo contains from scratch implementations of various machine learning algorithms such as:
 
