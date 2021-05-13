@@ -1,9 +1,9 @@
+## Computer Vision Algorithms Implementations from Scratch
 
-### EigenFaces:
-https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/computer_vision/Eigenfaces.ipynb
+Links to Jupiter Notbooks viewer:
 
-### RCNN:
-https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/computer_vision/RCNN.ipynb
+- [EigenFaces](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/computer_vision/Eigenfaces.ipynb) 
+- [RCNN - Region Based Convolutional Neural Networks](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/computer_vision/RCNN.ipynb) 
+- [OpticalFlow - Lucas–Kanade method](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/computer_vision/optical_flow.ipynb) 
 
-### OpticalFlow - Lucas–Kanade method :
-https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/computer_vision/optical_flow.ipynb
+
