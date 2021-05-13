@@ -6,7 +6,7 @@ Links to Jupiter Notbooks viewer:
 ![1_DMcPgeekUftwk0GTMcNawg](https://user-images.githubusercontent.com/61738534/118113772-605a0500-b3ef-11eb-99fd-509da018b7f9.png)
 - [Autoencoder](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/deep%20learning/autoencoder.ipynb) \
 ![The-structure-of-proposed-Convolutional-AutoEncoders-CAE-for-MNIST-In-the-middle-there](https://user-images.githubusercontent.com/61738534/118113868-81baf100-b3ef-11eb-9958-0b468bb62b35.png)
-- [VGG16 - Transder Learning](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/deep%20learning/LENET5.ipynb)
+- [VGG16 - Transfer Learning](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/deep%20learning/LENET5.ipynb)
 
  
 
