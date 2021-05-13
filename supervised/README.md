@@ -3,7 +3,8 @@
 Links to Jupiter Notbooks viewer:
 
 - [ADAboost - Adaptive Boosting](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/supervised/Adaboost.ipynb) 
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/supervised/Decision_tree.ipynb) 
+- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/supervised/Decision_tree.ipynb) \
+![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
 - [KNN - k-nearest neighbors](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/supervised/KNN.ipynb) \
 ![הורדה (9)](https://user-images.githubusercontent.com/61738534/118113313-ce51fc80-b3ee-11eb-8603-95800e3c7817.png)
 - [Naive Bayes](https://nbviewer.jupyter.org/github/dvircohen0/Machine-Learning-Algorithms-From-Scratch/blob/main/supervised/Naive_Bayes.ipynb)
