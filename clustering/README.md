@@ -1,4 +1,4 @@
-## ** Clustering Algorithms Implementations from Scratch **
+## **Clustering Algorithms Implementations from Scratch
 
 Links to Jupiter Notbooks viewer:
 
