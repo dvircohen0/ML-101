@@ -1,4 +1,4 @@
-**Clustering Algorithms from Scartch
+**Clustering Algorithms from Scartch**
 
 Links to Jupiter notebook viewer:
 
